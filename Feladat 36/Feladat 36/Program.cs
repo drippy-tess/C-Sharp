@@ -24,6 +24,19 @@ namespace Feladat_36
             atlag = atlag / 7;
             Console.WriteLine("Az átlag: {0}", atlag);
 
+            //B. feladat
+            double min = tomb[0];
+            int index = 0;
+            for(int j = 1; j < 7; j++)
+            { 
+                if(tomb[j] < min)
+                {
+                    min = kiadas[j];
+                    index = j;
+                }
+            }
+            Console.Write("A legkisebb kiadás: {0}", min);
+            Console.Write("A nap sorszáma: {0}", index +1);
         }
     }
 }
