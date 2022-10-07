@@ -6,18 +6,15 @@ namespace Feladat_13
     {
         static void Main(string[] args)
         {
-            int x;
-            Random vsz = new Random();
-            x = vsz.Next(-100, 100);
-            Console.WriteLine("A szám:{0}", x);
-            if ((-30 < x) && (40 > x))
-            {
-                Console.Write("A szám beleesik az intervallumba");
-            }
-            else
-            {
-                Console.Write("A szám nem esik bele az intervallumba");
-            }
+            int a;
+            int b;
+            int c;
+
+            Console.Write("Kérem adja meg az első oldalt:");
+            a = Convert.ToInt32(Console.ReadLine()),
+            Console.Write("Kérem adja meg a második oldalt:");
+            b = Convert.ToInt32(Console.ReadLine());
+            Console.Write()
         }
     }
 }
