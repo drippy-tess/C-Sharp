@@ -20,7 +20,7 @@ namespace Feladat_35
                 atlag = atlag + tomb[i];
                 if (tomb[i] % 5 == 0)
                 {
-                    Console.WriteLine("Volt 0-ra, vagy 5-r végződő szám");
+                    Console.WriteLine("Volt 0-ra, vagy 5-re végződő szám: {0}", tomb[i]);
                 }
                 if (tomb[i] % 2 == 0)
                 {
@@ -32,9 +32,9 @@ namespace Feladat_35
                 }
                 
             }
-            Console.WriteLine("A tömb elemei: {0}", tomb[i]);
+            Console.WriteLine("A tömb elemei: {0}");
             atlag = atlag / tombMerete;
-            Console.WriteLine("Tömb átlaga: {0}, páros számok: {1}, páratlan számok{2}", atlag, parosSzamok, paratlanSzamok);
+            Console.WriteLine("Tömb átlaga: {0}, páros számok: {1}, páratlan számok:{2}", atlag, parosSzamok, paratlanSzamok);
 
         }
     }
