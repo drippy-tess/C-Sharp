@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VNK7QBlFK3eT2i6ZdzLVyNbuYRhjFX8ZslRKl1M2zFUy9NRlOr3QXjhxXJVJj9NwgosuU3eyRVVG0To7m8bfGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\b0kovada\\source\\repos\\Feladat 40\\Feladat 40\\Feladat 40.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b0kovada\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
