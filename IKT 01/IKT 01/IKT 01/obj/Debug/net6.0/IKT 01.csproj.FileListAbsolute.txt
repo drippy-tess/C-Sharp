@@ -1,0 +1,15 @@
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\bin\Debug\net6.0\IKT 01.exe
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\bin\Debug\net6.0\IKT 01.deps.json
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\bin\Debug\net6.0\IKT 01.runtimeconfig.json
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\bin\Debug\net6.0\IKT 01.dll
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\bin\Debug\net6.0\IKT 01.pdb
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\IKT 01.csproj.AssemblyReference.cache
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\IKT 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\IKT 01.AssemblyInfoInputs.cache
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\IKT 01.AssemblyInfo.cs
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\IKT 01.csproj.CoreCompileInputs.cache
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\IKT 01.dll
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\refint\IKT 01.dll
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\IKT 01.pdb
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\IKT 01.genruntimeconfig.cache
+C:\Users\Drippy Tess\source\repos\IKT 01\IKT 01\obj\Debug\net6.0\ref\IKT 01.dll
