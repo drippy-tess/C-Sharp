@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feladat 45", "Feladat 45\Feladat 45.csproj", "{19BE07A3-9DB0-4081-AA2E-A68EA32EA243}"
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feladat 45", "Feladat 45\Feladat 45.csproj", "{19E0A1CB-924D-43A6-BC3F-D47A4D43D438}"
 EndProject
 Global
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BE07A3-9DB0-4081-AA2E-A68EA32EA243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BE07A3-9DB0-4081-AA2E-A68EA32EA243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BE07A3-9DB0-4081-AA2E-A68EA32EA243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BE07A3-9DB0-4081-AA2E-A68EA32EA243}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19E0A1CB-924D-43A6-BC3F-D47A4D43D438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19E0A1CB-924D-43A6-BC3F-D47A4D43D438}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E0A1CB-924D-43A6-BC3F-D47A4D43D438}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -20,6 +26,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0AC17CC-3476-45FD-9C94-A53FFCA98079}
 		SolutionGuid = {022F3446-DBB8-440A-A718-57B1CFFDAB0D}
 	EndGlobalSection
 EndGlobal
