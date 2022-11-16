@@ -9,15 +9,17 @@ namespace Feladat_55
             string mondat;
             Console.Write("Kérem gépeljen be egy mondatot: ");
             mondat = Console.ReadLine();
+            string[]szavak = mondat.Split(' ');
 
-            for (int i = 0; i < mondat.Length; i++)
+            for (int i = 0; i < szavak.Length; i+=2)
             {
-                switch (mondat[i])
-                {
-                    case "": Console.Write($"{mondat}"); break;
-                    case " ": Console.WriteLine($"\n"); break;
-                    default: break;
-                }
+                szavak[i] = szavak[i].ToUpper();
+
+            }
+
+            for(int j = 0; j < szavak.Length; j++)
+            {
+                Console.Write(szavak[j]);
             }
         }
     }
