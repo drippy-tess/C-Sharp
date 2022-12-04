@@ -1,0 +1,15 @@
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\bin\Debug\net6.0\feladat 88.exe
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\bin\Debug\net6.0\feladat 88.deps.json
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\bin\Debug\net6.0\feladat 88.runtimeconfig.json
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\bin\Debug\net6.0\feladat 88.dll
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\bin\Debug\net6.0\feladat 88.pdb
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\feladat 88.csproj.AssemblyReference.cache
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\feladat 88.GeneratedMSBuildEditorConfig.editorconfig
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\feladat 88.AssemblyInfoInputs.cache
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\feladat 88.AssemblyInfo.cs
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\feladat 88.csproj.CoreCompileInputs.cache
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\feladat 88.dll
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\refint\feladat 88.dll
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\feladat 88.pdb
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\feladat 88.genruntimeconfig.cache
+J:\2022-23\Sebestyén Klára\feladat 88\feladat 88\obj\Debug\net6.0\ref\feladat 88.dll
